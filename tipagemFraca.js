@@ -9,3 +9,4 @@ console.log(typeof qualquer)
 let valor = ''
 let numero = 1
 let not = false
+let b = 1
