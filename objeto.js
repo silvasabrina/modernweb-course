@@ -11,3 +11,9 @@ const prod2 = {
 }
 console.log(prod2)
 
+/**
+ Obejto: é um conjunto de pares chave e valor.
+ Chave: O identificador
+ Valor: O valor do identificador, que pgitode ser string, number, ...
+ * /
+
