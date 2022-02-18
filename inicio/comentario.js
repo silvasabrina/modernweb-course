@@ -1,6 +1,4 @@
-// comentarios em uma linha
+// texto para comentar algo relevante no código
 /*
-mgvkmfg.smf
-fgmdnf,gdfkgd
-comentarios com multiplas linhas
+mais de um comentario, com varias linhas
 */
