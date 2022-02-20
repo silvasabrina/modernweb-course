@@ -9,3 +9,4 @@ imprimirResultado(5)
 imprimirResultado(10)
 imprimirResultado('epa') //cuidado!!!
 
+imprimirResultado(-1)
